@@ -1,1 +1,1 @@
-This is the pitch that won the Exxeta challenge at Q-Summit, feel free to reach out to contact me or team.
+Multi AI-Agent smart staffing solution. Rapid and data-driven decision making based on hard skills, soft indicators and team dynamics.
